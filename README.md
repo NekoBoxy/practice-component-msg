@@ -1,2 +1,10 @@
-# msg
-vite 5.0.10+ vue 3.3.1
+# practice-component-msg
+## use
+"autoprefixer": "^10.4.17",
+"postcss": "^8.4.33",
+"tailwindcss": "^3.4.1",
+"vite": "^5.0.10"
+"@vitejs/plugin-vue": "^4.5.2",
+"pinia": "^2.1.7",
+"vue": "^3.3.11",
+"vue-router": "^4.2.5"
